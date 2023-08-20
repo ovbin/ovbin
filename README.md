@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on wsgi application.
+- 🔭 I’m currently working on WSGI Application.
 
 <!--
 **ovbin/ovbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
